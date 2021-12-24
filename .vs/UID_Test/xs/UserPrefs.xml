@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{C333A9D8-8EA7-49B7-B0AC-99F8073D14D9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UID_Test/ClientApp/src/pages/uid/master/views/create.vue">
+    <Files>
+      <File FileName="UID_Test/ClientApp/src/pages/uid/master/views/create.vue" Line="1" Column="1" />
+      <File FileName="UID_Test/ClientApp/src/pages/uid/master/views/edit.vue" Line="1" Column="1" />
+      <File FileName="UID_Test/ClientApp/src/pages/uid/master/views/details.vue" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UID_Test" expanded="True">
+            <Node name="UID_Test" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="pages" expanded="True">
+                    <Node name="uid" expanded="True">
+                      <Node name="master" expanded="True">
+                        <Node name="views" expanded="True">
+                          <Node name="create.vue" selected="True" />
+                        </Node>
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.UID__Test PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

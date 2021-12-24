@@ -1,0 +1,32 @@
+﻿
+<template>
+  <BatchFormViewBatchEdit />
+
+</template>
+
+
+<script lang="ts">
+import {Inject,mixins,Options,Provide,Vue } from "vue-property-decorator";
+import {$locales} from "@/client";
+import { ExMasterPageController,} from "../controller";
+import BatchFormViewBatchEdit from "./widgets/batchFormViewBatchEdit.vue";
+@Options({
+    name: "_PageUIDMasterBatchEdit",  
+    components: {
+    BatchFormViewBatchEdit
+  },
+})
+export default class extends Vue {
+
+    readonly ExMasterPageController = ExMasterPageController;
+
+    
+
+    
+    created() {}
+    mounted() {}
+}
+</script>
+<style lang="less">
+</style>
+

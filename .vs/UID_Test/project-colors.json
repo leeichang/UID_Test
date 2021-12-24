@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c333a9d8-8ea7-49b7-b0ac-99f8073d14d9": {
+      "ProjectGuid": "c333a9d8-8ea7-49b7-b0ac-99f8073d14d9",
+      "DisplayName": "UID_Test",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "其他檔案",
+      "ColorIndex": -1
+    },
+    "87d0c1c3-95c7-4da3-9608-ccb24dc4ed7c": {
+      "ProjectGuid": "87d0c1c3-95c7-4da3-9608-ccb24dc4ed7c",
+      "DisplayName": "UID_Test.DataAccess",
+      "ColorIndex": 1
+    },
+    "903b6967-27c0-4dd5-b274-b56962d5f20d": {
+      "ProjectGuid": "903b6967-27c0-4dd5-b274-b56962d5f20d",
+      "DisplayName": "UID_Test.Model",
+      "ColorIndex": 2
+    },
+    "a4f8d96e-a156-4701-8e30-3ff26d5cc37f": {
+      "ProjectGuid": "a4f8d96e-a156-4701-8e30-3ff26d5cc37f",
+      "DisplayName": "UID_Test.ViewModel",
+      "ColorIndex": 3
+    },
+    "ad33b37b-63d5-4bae-b966-805ff9cade66": {
+      "ProjectGuid": "ad33b37b-63d5-4bae-b966-805ff9cade66",
+      "DisplayName": "UID_Test.Test",
+      "ColorIndex": 4
+    },
+    "49b533ea-8889-490d-94d6-227cf5a15b68": {
+      "ProjectGuid": "49b533ea-8889-490d-94d6-227cf5a15b68",
+      "DisplayName": "UID_Test",
+      "ColorIndex": 5
+    },
+    "97aa4c3a-4633-4700-9b44-9e2b86af2473": {
+      "ProjectGuid": "97aa4c3a-4633-4700-9b44-9e2b86af2473",
+      "DisplayName": "UID_Test.ViewModel",
+      "ColorIndex": 6
+    },
+    "3fc2792c-1e1f-48fd-b703-adbbe374aed4": {
+      "ProjectGuid": "3fc2792c-1e1f-48fd-b703-adbbe374aed4",
+      "DisplayName": "UID_Test.Model",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}
